@@ -1,2 +1,3 @@
 # kafka-tools
-Kafka`s migration
+Kafka topics migration
+用于生成topic .reassignment文件，并执行迁移
